@@ -1,9 +1,8 @@
-# Hey there,
+# GithubFinder
 
-my name is 
+An app that searchs for github users
 
-## Sinothando Bacela
+## created using React
 
-and I have just created my first
-
-### REACT APPLICATION
+### Deployed application:
+https://githubfinder-sb.netlify.app/
